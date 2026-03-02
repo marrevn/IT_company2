@@ -93,6 +93,7 @@
             dgvTasks.MultiSelect = false;
             dgvTasks.Name = "dgvTasks";
             dgvTasks.ReadOnly = true;
+            dgvTasks.RowHeadersVisible = false;
             dgvTasks.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dgvTasks.Size = new Size(964, 601);
             dgvTasks.TabIndex = 1;
